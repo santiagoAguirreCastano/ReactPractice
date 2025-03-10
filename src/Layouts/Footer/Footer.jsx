@@ -5,7 +5,7 @@ import { FaFacebook,FaInstagram,FaLinkedin } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa6";
 export const Footer = () => {
     return (
-        <footer className='h-[5rem] w-[100vw] text-center items-center flex justify-center bg-teal-400 dark:bg-gray-800 rounded-lg px-6 py-8 ring shadow-xl ring-gray-900/5'>
+        <footer className='h-[5rem] w-[100vw] text-center items-center flex justify-center bg-teal-600 dark:bg-gray-800 rounded-lg px-6 py-8 ring shadow-xl ring-gray-900/5'>
             <p className='text-white'>
                 Desarrollado por <strong>Santiago Aguirre</strong>
             </p>
